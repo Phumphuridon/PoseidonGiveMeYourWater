@@ -1,7 +1,7 @@
 #include "WebServerHandler.h"
 
-const char* ssid = "DESKTOP-POPFKGC 0291";           // Define your SSID
-const char* password = "261)50mN";   // Define your password
+const char* ssid = "DESKTOP-POPFKGC 0291";
+const char* password = "261)50mN";
 
 WiFiSSLClient client;
 WiFiServer server = WiFiServer(80);
@@ -9,7 +9,6 @@ String active = "";
 String inactive = "";
 int isActive = 0;
 
-// Implement your functions below
 void setupWifi() {
   pinMode(7, INPUT);
   Serial.begin(9600);
