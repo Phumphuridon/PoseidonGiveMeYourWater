@@ -1,5 +1,3 @@
-![Uploading image.png…]()
-
 # Physical Computing Project 2024 - IT KMITL
 ## รายชื่อสมาชิก
 - 66070162 นายภูมิภูริดล วงค์จันทร์
