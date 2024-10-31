@@ -1,4 +1,6 @@
 # Physical Computing Project 2024 - IT KMITL
+![A1 (300 DPI) (1) (1)](https://github.com/user-attachments/assets/2ce9e6e0-b0b7-43da-9146-d0649917172c)
+
 ## รายชื่อสมาชิก
 - 66070162 นายภูมิภูริดล วงค์จันทร์
 - 66070120 นายพงศธร กิจเจตนี
