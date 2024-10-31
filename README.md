@@ -30,4 +30,4 @@ https://poompower.github.io/
 
 ## PROJECT DEMO VIDEO
 คลิปวิดีโอสาธิตการทำงานของเครื่องกดน้ำ<br />
-https://www.youtube.com/watch?v=dQw4w9WgXcQ
+https://youtu.be/Z3wKX3FMK88
